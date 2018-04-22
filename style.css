@@ -1,0 +1,18 @@
+/* This is a comment! */
+
+
+/* CSS Syntax:
+
+selector {
+  propertry: value;
+  property: value;
+}
+
+*/
+
+/* Type Selector */
+
+p { /* select <p> */
+  font-size: 1em; /*16px, ?pt(not a good idea), 100%, 1em */
+  line-height: 1.5em;
+}
