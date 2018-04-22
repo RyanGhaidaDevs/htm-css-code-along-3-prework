@@ -56,6 +56,16 @@ font-family: "Clicker Script", cursive;
 
 #logo {
 
-font-family: "Elsie Swash Caps", cursive; 
+font-family: "Elsie Swash Caps", cursive;
+
+}
+
+/* Pseudo Class Selectors */
+
+#details a:link {
+
+color: black;
+text-decoration: none;
+
 
 }
